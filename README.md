@@ -34,3 +34,14 @@ This project demonstrates a deployable approach that remains responsive on low-p
 
 ## Notes on data
 Only small demo clips are included. Full videos are referenced externally if needed (license permitting).
+
+## Demo
+
+### Raw input
+![Raw Traffic](assets/parked_cars_raw.png)
+
+### Parked Cars classifiyng as traffic vehicles
+![Output Demo](assets/parked_cars_issues.gif)
+
+### Parked cars excluded
+![Output_Demo](assets/parked_cars_issue_fixed.png)
