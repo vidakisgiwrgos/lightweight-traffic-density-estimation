@@ -38,10 +38,10 @@ Only small demo clips are included. Full videos are referenced externally if nee
 ## Demo
 
 ### Raw input
-![Raw Traffic](assets/parked_cars_raw.png)
+![Raw Traffic](data_samples/parked_cars_raw.jpg)
 
 ### Parked Cars classifiyng as traffic vehicles
-![Output Demo](assets/parked_cars_issues.gif)
+![Output Demo](assets/parked_cars_issues.jpg)
 
 ### Parked cars excluded
-![Output_Demo](assets/parked_cars_issue_fixed.png)
+![Output_Demo](assets/parked_cars_issue_fixed.jpg)
