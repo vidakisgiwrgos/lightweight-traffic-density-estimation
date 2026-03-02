@@ -1,0 +1,17 @@
+sampling:
+  every_n_frames: 10
+
+roi:
+  x1: 0
+  y1: 0
+  x2: 1280
+  y2: 720
+
+motion_filter:
+  diff_threshold: 30
+  motion_ratio_min: 0.05
+
+density_thresholds:
+  light_max: 5
+  moderate_max: 14
+  heavy_min: 15
